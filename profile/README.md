@@ -1,1 +1,1 @@
-# Aggregation Chain Base Tendermint
+# An Aggregation Chain Tendermint-Based
